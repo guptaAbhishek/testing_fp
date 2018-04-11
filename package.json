@@ -1,0 +1,20 @@
+{
+  "name": "fingerprinttesting",
+  "version": "0.0.1",
+  "description": "fingerprint testing accross the products and envrionments ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/aG007/fingerprinttesting.git"
+  },
+  "keywords": [
+    "fingerprint",
+    "testing"
+  ],
+  "author": "Abhishek Kumar Gupta",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/aG007/fingerprinttesting#readme"
+}
